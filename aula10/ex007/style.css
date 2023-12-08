@@ -1,0 +1,17 @@
+body {
+    color: rgb(255, 255, 255);
+    font: normal 18pt Arial;    
+    background-color: rgb(32, 32, 32);
+}
+
+input{
+    font: normal 18pt Arial;    
+    width: 100px;
+    
+
+}
+
+div#res{
+    margin-top: 20px;
+
+}   
